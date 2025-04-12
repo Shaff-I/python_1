@@ -14,4 +14,3 @@ class Car:
 
 mycar = Car("Chevrolet", "Impala", 1967)
 mycar.get_info(1967, "Chevrolet", "Impala")
-print("miaw miaw miaw miaw")
